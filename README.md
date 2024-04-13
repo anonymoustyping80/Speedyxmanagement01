@@ -24,8 +24,8 @@ Alternatively, [find me on telegram](https://t.me/ll_About_Jayy_ll)! (Keep all s
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anonymoustyping80/Speedyxmanagement01)<br>
-[![telegram badge](https://img.shields.io/badge/Support-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/SPEEDY_PVT)
-[![telegram badge](https://img.shields.io/badge/Update-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/Speedy_pvt2)
+[![telegram badge](https://img.shields.io/badge/Support-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/Speedy_pvt2)
+[![telegram badge](https://img.shields.io/badge/Update-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/Speedy_pvt)
 
 
 
